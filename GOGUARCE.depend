@@ -1,0 +1,682 @@
+# depslib dependency file v1.0
+1687101698 source:c:\users\juanp\desktop\tup - utn mdp\prog. y lab. 1\funcionesusuario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	<locale.h>
+	<wchar.h>
+	<conio.h>
+
+1687104543 source:c:\users\juanp\desktop\tup - utn mdp\prog. y lab. 1\funcionesusuario\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	<locale.h>
+	<wchar.h>
+
+1687104551 c:\users\juanp\desktop\tup - utn mdp\prog. y lab. 1\funcionesusuario\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687130290 source:c:\users\patricia\desktop\funcionesusuario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	<locale.h>
+	<wchar.h>
+	<conio.h>
+
+1687104552 c:\users\patricia\desktop\funcionesusuario\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687104544 source:c:\users\patricia\desktop\funcionesusuario\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	<locale.h>
+	<wchar.h>
+
+1687146247 source:c:\users\patricia\desktop\jpgk\funcionesusuario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	<locale.h>
+	<wchar.h>
+	<conio.h>
+
+1687104552 c:\users\patricia\desktop\jpgk\funcionesusuario\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687135543 source:c:\users\patricia\desktop\jpgk\funcionesusuario\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	<locale.h>
+	<wchar.h>
+
+1687134652 source:c:\users\patricia\desktop\jpgk\funcionesusuario\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1687134393 c:\users\patricia\desktop\jpgk\funcionesusuario\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687302613 source:c:\users\juanp\desktop\fxusuariorepasado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	<locale.h>
+	<wchar.h>
+	<conio.h>
+
+1687301976 c:\users\juanp\desktop\fxusuariorepasado\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687300572 source:c:\users\juanp\desktop\fxusuariorepasado\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1687300572 c:\users\juanp\desktop\fxusuariorepasado\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687302509 source:c:\users\juanp\desktop\fxusuariorepasado\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	<locale.h>
+	<wchar.h>
+
+1687302111 c:\users\juanp\desktop\fxusuariorepasado\contenido.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687302475 source:c:\users\juanp\desktop\fxusuariorepasado\contenido.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	<locale.h>
+	<wchar.h>
+
+1687359097 source:c:\users\patricia\desktop\jpgk\fxusuariorepasado\contenido.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	<locale.h>
+	<wchar.h>
+
+1687288362 c:\users\patricia\desktop\jpgk\fxusuariorepasado\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687350217 c:\users\patricia\desktop\jpgk\fxusuariorepasado\contenido.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687358750 source:c:\users\patricia\desktop\jpgk\fxusuariorepasado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	<locale.h>
+	<wchar.h>
+	<conio.h>
+
+1687369645 source:c:\users\patricia\desktop\jpgk\fxusuariorepasado\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1687348762 c:\users\patricia\desktop\jpgk\fxusuariorepasado\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687358089 source:c:\users\patricia\desktop\jpgk\fxusuariorepasado\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	<locale.h>
+	<wchar.h>
+
+1687816625 source:c:\users\juanp\desktop\goguarce\contenido.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	<locale.h>
+	<wchar.h>
+
+1687643946 c:\users\juanp\desktop\goguarce\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687643946 c:\users\juanp\desktop\goguarce\contenido.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687643946 source:c:\users\juanp\desktop\goguarce\mensajeria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1687643946 c:\users\juanp\desktop\goguarce\mensajeria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687643946 c:\users\juanp\desktop\goguarce\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687817373 source:c:\users\juanp\desktop\goguarce\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1687643946 source:c:\users\juanp\desktop\goguarce\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	<locale.h>
+	<wchar.h>
+
+1687817318 source:c:\users\juanp\desktop\goguarce\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	<locale.h>
+	<wchar.h>
+	<conio.h>
+
+1687816626 source:d:\goguarce\contenido.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	<locale.h>
+	<wchar.h>
+
+1687886014 d:\goguarce\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687643948 d:\goguarce\contenido.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687867006 source:d:\goguarce\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	<locale.h>
+	<wchar.h>
+	<conio.h>
+
+1687643948 source:d:\goguarce\mensajeria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1687643948 d:\goguarce\mensajeria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687643948 d:\goguarce\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687886184 source:d:\goguarce\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	<locale.h>
+	<wchar.h>
+
+1687886014 source:d:\goguarce\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1687904603 source:c:\users\juanp\desktop\goguarce 2\contenido.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	<locale.h>
+	<wchar.h>
+
+1687912770 c:\users\juanp\desktop\goguarce 2\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687904603 c:\users\juanp\desktop\goguarce 2\contenido.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687913044 source:c:\users\juanp\desktop\goguarce 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	<locale.h>
+	<wchar.h>
+	<conio.h>
+
+1687904603 source:c:\users\juanp\desktop\goguarce 2\mensajeria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1687904603 c:\users\juanp\desktop\goguarce 2\mensajeria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687909713 c:\users\juanp\desktop\goguarce 2\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687909713 source:c:\users\juanp\desktop\goguarce 2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1687913295 source:c:\users\juanp\desktop\goguarce 2\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	<locale.h>
+	<wchar.h>
+
+1687904754 source:c:\users\patricia\desktop\goguarce 3-20230628t105749z-001\goguarce 3\contenido.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	<conio.h>
+
+1687950575 c:\users\patricia\desktop\goguarce 3-20230628t105749z-001\goguarce 3\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687903972 c:\users\patricia\desktop\goguarce 3-20230628t105749z-001\goguarce 3\contenido.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687901460 c:\users\patricia\desktop\goguarce 3-20230628t105749z-001\goguarce 3\mensajeria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687958365 source:c:\users\patricia\desktop\goguarce 3-20230628t105749z-001\goguarce 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	<conio.h>
+
+1687958295 source:c:\users\patricia\desktop\goguarce 3-20230628t105749z-001\goguarce 3\mensajeria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1687958371 c:\users\patricia\desktop\goguarce 3-20230628t105749z-001\goguarce 3\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687958472 source:c:\users\patricia\desktop\goguarce 3-20230628t105749z-001\goguarce 3\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1687950544 source:c:\users\patricia\desktop\goguarce 3-20230628t105749z-001\goguarce 3\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+
+1687904754 source:c:\users\patricia\desktop\goguarce 4\goguarce 3\contenido.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	<conio.h>
+
+1687974812 c:\users\patricia\desktop\goguarce 4\goguarce 3\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687903972 c:\users\patricia\desktop\goguarce 4\goguarce 3\contenido.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687901460 c:\users\patricia\desktop\goguarce 4\goguarce 3\mensajeria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687974827 source:c:\users\patricia\desktop\goguarce 4\goguarce 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	<conio.h>
+
+1687958295 source:c:\users\patricia\desktop\goguarce 4\goguarce 3\mensajeria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1687959424 c:\users\patricia\desktop\goguarce 4\goguarce 3\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687959424 source:c:\users\patricia\desktop\goguarce 4\goguarce 3\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1687974891 source:c:\users\patricia\desktop\goguarce 4\goguarce 3\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+
+1687977580 source:c:\users\juanp\desktop\goguarce 4\goguarce 3\contenido.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	<conio.h>
+
+1687978931 c:\users\juanp\desktop\goguarce 4\goguarce 3\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687977580 c:\users\juanp\desktop\goguarce 4\goguarce 3\contenido.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1687977055 c:\users\juanp\desktop\goguarce 4\goguarce 3\mensajeria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687977906 source:c:\users\juanp\desktop\goguarce 4\goguarce 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	<conio.h>
+
+1687977055 source:c:\users\juanp\desktop\goguarce 4\goguarce 3\mensajeria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1687977055 c:\users\juanp\desktop\goguarce 4\goguarce 3\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687979371 source:c:\users\juanp\desktop\goguarce 4\goguarce 3\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1687979070 source:c:\users\juanp\desktop\goguarce 4\goguarce 3\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+
+1687963180 source:c:\users\patricia\desktop\finalissima\finalissima\contenido.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	<conio.h>
+
+1687964530 c:\users\patricia\desktop\finalissima\finalissima\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687963180 c:\users\patricia\desktop\finalissima\finalissima\contenido.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1687962654 c:\users\patricia\desktop\finalissima\finalissima\mensajeria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687963506 source:c:\users\patricia\desktop\finalissima\finalissima\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	<conio.h>
+
+1688002876 source:c:\users\patricia\desktop\finalissima\finalissima\mensajeria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1687962654 c:\users\patricia\desktop\finalissima\finalissima\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687964970 source:c:\users\patricia\desktop\finalissima\finalissima\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1687965168 source:c:\users\patricia\desktop\finalissima\finalissima\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+
